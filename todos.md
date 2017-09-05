@@ -6,4 +6,4 @@
 * implement with typescript
 * implement with babeljs
 * upgrade packages to latest
-* add to github
+* add to github - DONE
