@@ -7,3 +7,4 @@
 * implement with babeljs
 * upgrade packages to latest
 * add to github - DONE
+* understand how git/github work
