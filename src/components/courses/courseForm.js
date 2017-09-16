@@ -12,12 +12,8 @@ var CourseForm = React.createClass({
         onChange: React.PropTypes.func.isRequired,
         error: React.PropTypes.object
     },
-    getAuthorValue: function(author){
-        return author.id;
-    },
-    getAuthorText: function(author){
-        return author.firstName + ' ' + author.lastName;
-    },
+    getAuthorValue: (author) => author.id,
+    getAuthorText: (author) => author.firstName + ' ' + author.lastName,
     render: function(){
         
         return (

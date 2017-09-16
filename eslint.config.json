@@ -1,12 +1,14 @@
 {
     "root" : true,
     "ecmaFeatures" : {
-        "jsx" : true
+        "jsx" : true,
+        "version" : 6
     },
     "env" : {
         "browser" : true,
         "node" : true,
-        "jquery" : true
+        "jquery" : true,
+        "es6"   : true
     },
     "rules" :{
         "quotes" : 0,
